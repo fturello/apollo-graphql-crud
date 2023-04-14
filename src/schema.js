@@ -1,4 +1,4 @@
-// Schemas
+// Schema
 const typeDefs = `#graphql
 	type Post {
 		userId: ID!
